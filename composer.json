@@ -1,0 +1,29 @@
+{
+    "name": "teo2peer/utopia-api",
+    "description": "Easy way to integrate Utopia API into your PHP application",
+    "keywords": [
+        "utopia",
+        "php",
+        "api",
+        "utopia-api"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teo2Peer"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0",
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "teo2peer\\utopiaApi\\": "src/"
+        }
+    }
+}
