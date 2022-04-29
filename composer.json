@@ -1,5 +1,5 @@
 {
-    "name": "teo2peer/utopia-api",
+    "name": "teo2peer/uapi",
     "description": "Easy way to integrate Utopia API into your PHP application",
     "keywords": [
         "utopia",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "teo2peer\\utopiaApi\\": "src/"
+            "teo2peer\\uapi\\": "src/"
         }
     }
 }

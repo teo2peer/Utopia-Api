@@ -27,7 +27,7 @@ git clone https://github.com/teo2peer/utopia-api
 require_once('utopia-api.php')
 
 //composer 
-use utopiaApi\Api;
+use Teo2Peer\Uapi;
 
 
 $api = new api("URL", "TOKEN");
