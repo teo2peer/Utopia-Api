@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "teo2peer\\uapi\\": "src/"
+            "Teo2Peer\\Uapi\\": "src/"
         }
     }
 }
