@@ -1,7 +1,7 @@
 <?php
 
 
-
+namespace Teo2Peer\Uapi;
 
 class Api
 {
